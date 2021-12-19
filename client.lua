@@ -12,14 +12,8 @@ local blips = {
 {title="Strip Clup", colour=48, id=121, x =  126.55, y = -1289.25, z = 29.28},
 {title="Weed Farm", colour=2, id=496, x = 2204.58, y = 5578.34, z = 53.81},
 
--- Properties
-
-{title="Property", colour=5, id=492, x = -841.25, y = -25.13, z = 40.4},
-{title="Property", colour=5, id=492, x = 1375.07, y = 1147.61, z = 113.91},
-{title="Property", colour=5, id=492, x = 1214.4, y = -666.24, z = 62.58},
 
 -- Police Stations {title="", colour=0, id=1, x =  , y = , z = },
-
 {title="Police Station", colour=38, id=60, x = 442.18, y = -983.14, z = 30.1},
 {title="Police Station", colour=38, id=60, x =  -1094.83, y = -836.18, z = 38.06},
 {title="Police Station", colour=38, id=60, x =  825.62, y = -1290.11, z = 28.24},
@@ -28,14 +22,12 @@ local blips = {
 {title="Police Station", colour=38, id=60, x =  -445.8, y = 6014.2, z = 31.71},
 
 -- Hospitals {title="", colour=0, id=1, x =  , y = , z = },
-
 {title="Hospital", colour=2, id=61, x =  306.58, y = -1435.32, z = 29.8},
 {title="Hospital", colour=2, id=61, x =  305.0, y = -583.0, z = 50.0},
 {title="Hospital", colour=2, id=61, x =  -463.67, y = -338.42, z = 34.5},
 {title="Hospital", colour=2, id=61, x =  1828.13, y = 3667.26, z = 34.28},
 
 --Ammunations {title="", colour=0, id=1, x =  , y = , z = },
-
 {title="Ammu-Nation", colour=1, id=110, x =  21.13, y = -1108.0, z = 29.79},
 {title="Ammu-Nation", colour=1, id=110, x =  812.37, y = -2157.64, z = 29.61},
 {title="Ammu-Nation", colour=1, id=110, x =  -663.57, y = -939.91, z = 21.82},
